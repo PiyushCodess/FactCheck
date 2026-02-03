@@ -13,3 +13,4 @@ beautifulsoup4==4.12.2
 requests==2.31.0
 textblob==0.17.1
 Pillow==10.0.0
+pyarrow==14.0.2
